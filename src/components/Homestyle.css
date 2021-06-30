@@ -1,0 +1,52 @@
+.topName{
+    font-size: 47px;
+    color: red;
+    width: 55vh;
+    height: 40vh;
+    margin-left: 5vh;
+    text-shadow: 2px 2px white;
+    margin-top: 5vh;
+}
+
+.shopName{
+    color: azure;
+    
+    font-weight: bold;
+    font-size: 48px;
+    width:80vh;
+    height: 15vh;
+    text-align: center;
+    margin-top: 4vh;
+    padding-top: 0.5vh;
+    background-color: rgba(240, 79, 5, 0.3);
+    text-shadow: 1px 1px 2px black, 0 0 25px purple, 0 0 5px darkblue;
+    
+}
+
+.viewbtn{
+    width: 40vh;
+    height: 8vh;
+    margin-left: 5vh;
+    background-color: transparent;
+    
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 2vh;
+    border: 2px solid red;
+   
+}
+.vibtn{
+    text-decoration: none;
+    color:red;
+}
+
+.vibtn:hover{
+    color: white;
+}
+
+
+.viewbtn:hover{
+    background-color: red;
+   
+}
