@@ -10,7 +10,7 @@ export default class Home extends Component {
                     <h1>WOMEN'S & MEN'S</h1>
                 </div>
                 <div className="shopName">
-                    Welcome to VT Fashions
+                    Welcome to VIT Fashions to
                 </div>
                
                     <button className="viewbtn"><Link  to ='/shop' className= "vibtn">View Collection</Link></button>
